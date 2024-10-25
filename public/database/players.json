@@ -1,0 +1,89 @@
+{
+  "response_status": 200,
+  "players": [
+    {
+      "id": 1,
+      "name": "Virat Kohli",
+      "country": "India",
+      "role": "Batsman",
+      "image_url": "/src/assets/images/virat.jpg",
+      "rating": {
+        "batting_style": "Right Hand Bat"
+      },
+      "price": 2200000,
+      "button": "Choose Player"
+    },
+    {
+      "id": 2,
+      "name": "Rohit Sharma",
+      "country": "India",
+      "role": "Batsman",
+      "image_url": "/src/assets/images/rohit.webp",
+      "rating": {
+        "batting_style": "Right Hand Bat"
+      },
+      "price": 2000000,
+      "button": "Choose Player"
+    },
+    {
+      "id": 3,
+      "name": "Tamim Iqbal",
+      "country": "Bangladesh",
+      "role": "Batsman",
+      "image_url": "/src/assets/images/tamim.jpg",
+      "rating": {
+        "batting_style": "Left Hand Bat"
+      },
+      "price": 1600000,
+      "button": "Choose Player"
+    },
+    {
+      "id": 4,
+      "name": "David Warner",
+      "country": "Australia",
+      "role": "Batsman",
+      "image_url": "/src/assets/images/davidwarnner.jpg",
+      "rating": {
+        "batting_style": "Left Hand Bat"
+      },
+      "price": 2500000,
+      "button": "Choose Player"
+    },
+    {
+      "id": 5,
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "role": "Batsman",
+      "image_url": "/src/assets/images/kane.webp",
+      "rating": {
+        "batting_style": "Right Hand Bat"
+      },
+      "price": 2400000,
+      "button": "Choose Player"
+    },
+    {
+      "id": 6,
+      "name": "Joe Root",
+      "country": "England",
+      "role": "Batsman",
+      "image_url": "/src/assets/images/root.jpeg",
+      "rating": {
+        "batting_style": "Right Hand Bat"
+      },
+      "price": 2300000,
+      "button": "Choose Player"
+    },
+    {
+      "id": 7,
+      "name": "Babar Azam",
+      "country": "Pakistan",
+      "role": "Batsman",
+      "image_url": "/src/assets/images/babar.webp",
+      "rating": {
+        "batting_style": "Right Hand Bat"
+      },
+      "price": 2600000,
+      "button": "Choose Player"
+    }
+  ]
+}
