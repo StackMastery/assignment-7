@@ -13,3 +13,13 @@ const Button = ({className, classId, name}) => {
 }
 
 export default Button;
+;
+
+export const Button2 = () => {
+    return (
+        <>
+            <button className="px-5 py-3 bg-gradient-to-tr from-[#b561b8] to-[#E4BE5C] rounded-xl font-semibold w-full md:w-fit ">Subscribe</button>
+        </>
+    );
+}
+

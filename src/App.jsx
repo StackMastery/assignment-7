@@ -3,6 +3,7 @@ import Header from "./components/Header";
 import HeroBanner from "./components/HeroBanner";
 import { ToastContainer } from 'react-toastify'
 import ShowcasePlayer, { TabWithTitle } from "./components/ShowcasePlayer";
+import Footer from "./components/Footer";
 
 const App = () => {
   // Ammount Of Coin
@@ -45,6 +46,8 @@ const App = () => {
       />
       {/* Toastify */}
       <ToastContainer />
+      {/* Footer */}
+      <Footer />
     </>
   );
 }

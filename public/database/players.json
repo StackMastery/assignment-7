@@ -6,7 +6,7 @@
       "name": "Virat Kohli",
       "country": "India",
       "role": "Batsman",
-      "image_url": "/src/assets/images/virat.jpg",
+      "image_url": "https://res.cloudinary.com/dogyg2j0h/image/upload/v1729881145/virat_ntjdjj.jpg",
       "rating": {
         "batting_style": "Right Hand Bat"
       },
@@ -18,7 +18,7 @@
       "name": "Rohit Sharma",
       "country": "India",
       "role": "Batsman",
-      "image_url": "/src/assets/images/rohit.webp",
+      "image_url": "https://res.cloudinary.com/dogyg2j0h/image/upload/v1729881145/rohit_uh3eiu.webp",
       "rating": {
         "batting_style": "Right Hand Bat"
       },
@@ -30,7 +30,7 @@
       "name": "Tamim Iqbal",
       "country": "Bangladesh",
       "role": "Batsman",
-      "image_url": "/src/assets/images/tamim.jpg",
+      "image_url": "https://res.cloudinary.com/dogyg2j0h/image/upload/v1729881145/tamim_rok8jl.jpg",
       "rating": {
         "batting_style": "Left Hand Bat"
       },
@@ -42,7 +42,7 @@
       "name": "David Warner",
       "country": "Australia",
       "role": "Batsman",
-      "image_url": "/src/assets/images/davidwarnner.jpg",
+      "image_url": "https://res.cloudinary.com/dogyg2j0h/image/upload/v1729881145/davidwarnner_p6mffk.jpg",
       "rating": {
         "batting_style": "Left Hand Bat"
       },
@@ -54,7 +54,7 @@
       "name": "Kane Williamson",
       "country": "New Zealand",
       "role": "Batsman",
-      "image_url": "/src/assets/images/kane.webp",
+      "image_url": "https://res.cloudinary.com/dogyg2j0h/image/upload/v1729881145/kane_exghas.webp",
       "rating": {
         "batting_style": "Right Hand Bat"
       },
@@ -66,7 +66,7 @@
       "name": "Joe Root",
       "country": "England",
       "role": "Batsman",
-      "image_url": "/src/assets/images/root.jpeg",
+      "image_url": "https://res.cloudinary.com/dogyg2j0h/image/upload/v1729881145/root_vunuys.jpg",
       "rating": {
         "batting_style": "Right Hand Bat"
       },
@@ -78,7 +78,7 @@
       "name": "Babar Azam",
       "country": "Pakistan",
       "role": "Batsman",
-      "image_url": "/src/assets/images/babar.webp",
+      "image_url": "https://res.cloudinary.com/dogyg2j0h/image/upload/v1729881145/babar_cabr9g.webp",
       "rating": {
         "batting_style": "Right Hand Bat"
       },

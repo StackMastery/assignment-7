@@ -17,7 +17,7 @@ const Header = ({coinValue}) => {
     
     return (
         <>
-            <header className="flex justify-center w-full fixed border-b bg-white">
+            <header className="flex justify-center w-full fixed border-b bg-white z-[99999999999]">
                 <div className="inline-flex w-1 p-5 xl:px-0 justify-center justify-between items-center">
                     <a href="/">
                         <img width={50} src={Logo} alt="Logo"/>

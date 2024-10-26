@@ -29,7 +29,7 @@ const HeroBanner = ({ setCoinValue, coinvalue }) => {
                     <p className="text-text-2 font-light text-xl sm:text-2xl">Beyond Boundaries Beyond Limits</p>
                     <div
                         onClick={() => {
-                            setCoinValue(coinvalue + 120000000);
+                            setCoinValue(coinvalue + 5000000);
                             displaySuccessToast();
                         }}
                     >

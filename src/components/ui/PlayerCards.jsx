@@ -32,6 +32,7 @@ const PlayerCards = ({image, name, role, price, region, handtype, coinValue, set
     return (
         <div className="col-span-12 md:col-span-6 lg:col-span-4 border p-6 rounded-xl space-y-6">
             <img
+                loading="lazy"
                 className="rounded-xl h-[240px] object-cover w-full bg-stone-200"
                 src={image}
                 alt="Players Image"
