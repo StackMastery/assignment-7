@@ -84,6 +84,66 @@
       },
       "price": 2600000,
       "button": "Choose Player"
+    },
+    {
+      "id": 8,
+      "name": "Steve Smith",
+      "country": "Australia",
+      "role": "Batsman",
+      "image_url": "https://res.cloudinary.com/dogyg2j0h/image/upload/v1729926085/steve_zft1cq.webp",
+      "rating": {
+        "batting_style": "Right Hand Bat"
+      },
+      "price": 2450000,
+      "button": "Choose Player"
+    },
+    {
+      "id": 9,
+      "name": "Shreyas Iyer",
+      "country": "India",
+      "role": "Batsman",
+      "image_url": "https://res.cloudinary.com/dogyg2j0h/image/upload/v1729926075/lyer_fvlwsc.webp",
+      "rating": {
+        "batting_style": "Right Hand Bat"
+      },
+      "price": 1800000,
+      "button": "Choose Player"
+    },
+    {
+      "id": 10,
+      "name": "Quinton de Kock",
+      "country": "South Africa",
+      "role": "Batsman",
+      "image_url": "https://res.cloudinary.com/dogyg2j0h/image/upload/v1729926075/quinton_xw0hx7.jpg",
+      "rating": {
+        "batting_style": "Left Hand Bat"
+      },
+      "price": 2200000,
+      "button": "Choose Player"
+    },
+    {
+      "id": 11,
+      "name": "Jos Buttler",
+      "country": "England",
+      "role": "Batsman",
+      "image_url": "https://res.cloudinary.com/dogyg2j0h/image/upload/v1729926073/jos_aej1sf.jpg",
+      "rating": {
+        "batting_style": "Right Hand Bat"
+      },
+      "price": 2350000,
+      "button": "Choose Player"
+    },
+    {
+      "id": 12,
+      "name": "Faf du Plessis",
+      "country": "South Africa",
+      "role": "Batsman",
+      "image_url": "https://res.cloudinary.com/dogyg2j0h/image/upload/v1729926073/fap_unthis.jpg",
+      "rating": {
+        "batting_style": "Right Hand Bat"
+      },
+      "price": 2400000,
+      "button": "Choose Player"
     }
   ]
 }
