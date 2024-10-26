@@ -24,8 +24,8 @@ const HeroBanner = ({ setCoinValue, coinvalue }) => {
         <>
             <section className="flex justify-center pt-28 p-5">
                 <div className="inline-flex flex-col items-center text-center px-10 gap-3 w-1 bg-black py-14 rounded-2xl bg-heroBg bg-cover bg-center justify-center">
-                    <img width={230} src={HeroImage} alt="Hero Image" className="self-center" />
-                    <h1 className="text-white text-3xl sm:text-4xl font-semibold pt-8">Assemble Your Ultimate Dream 11 Team</h1>
+                    <img width={230} height={200} src={HeroImage} alt="Hero Image" className="self-center" />
+                    <h1 className="text-white text-2xl min-[350px]:text-3xl sm:text-4xl font-semibold pt-8">Assemble Your Ultimate Dream 11 Team</h1>
                     <p className="text-text-2 font-light text-xl sm:text-2xl">Beyond Boundaries Beyond Limits</p>
                     <div
                         onClick={() => {

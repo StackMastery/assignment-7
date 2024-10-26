@@ -15,10 +15,10 @@ const Button = ({className, classId, name}) => {
 export default Button;
 ;
 
-export const Button2 = () => {
+export const Button2 = ({className}) => {
     return (
         <>
-            <button className="px-5 py-3 bg-gradient-to-tr from-[#b561b8] to-[#E4BE5C] rounded-xl font-semibold w-full md:w-fit ">Subscribe</button>
+            <button className={`px-5 py-3 bg-gradient-to-tr from-[#e17fe4] to-[#ffc505] rounded-xl font-semibold  ${className}`}>Subscribe</button>
         </>
     );
 }
